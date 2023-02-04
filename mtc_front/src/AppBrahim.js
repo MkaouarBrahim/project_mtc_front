@@ -6,7 +6,7 @@ import SignIn from './composents/SignIn';
 import SignUp from './composents/SignUp';
 
 function App() {
- /* return (
+ return (
     <div className="App">
       {/* <Signup/> */}
       <BrowserRouter>
